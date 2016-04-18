@@ -7,3 +7,4 @@
 # TODO
 * https://wiki.haskell.org/Learn_Haskell_in_10_minutes
 * https://www.haskell.org/tutorial/
+* https://wiki.haskell.org/Monad
