@@ -3,6 +3,7 @@
 * https://www.haskell.org/platform/
 * https://www.youtube.com/watch?v=RqvCNb7fKsg
 * https://en.wikipedia.org/wiki/Ackermann_function
+* http://rigaux.org/language-study/syntax-across-languages-per-language/Haskell.html 
 
 # TODO
 * https://wiki.haskell.org/Learn_Haskell_in_10_minutes
